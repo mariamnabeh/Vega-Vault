@@ -1,7 +1,7 @@
-# TrustIssues 🔒 
+# 🌌 Vega Vault: TrustIssues Edition
 **"Because if I don't encrypt it, I don't sleep 0_o"**
 
-TrustIssues is a robust, local digital vault built in C++. It’s designed for users who want a secure, "no-nonsense" way to protect sensitive notes and files on their machine. Using industry-standard cryptographic principles, it ensures your data remains a mystery to everyone—including your OS.
+Vega Vault is a robust, local digital vault built in C++. It’s designed for users who want a secure, "no-nonsense" way to protect sensitive notes and files on their machine. Using industry-standard cryptographic principles, it ensures your data remains a mystery to everyone—including your OS.
 
 ##  Key Features
 - **Zero-Knowledge Architecture:** We never store your raw password. Everything is verified via salted SHA-256 hashes.
