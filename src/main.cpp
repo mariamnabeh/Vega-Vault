@@ -6,9 +6,9 @@ using namespace std;
 
 int main() {
     // 1. Define file paths and encryption key
-    string originalFile = "../test/test.txt";
-    string encryptedFile = "../test/locked.vega";
-    string decryptedFile = "../test/recovered.txt";
+    string originalFile = "C:/Users/SPARK/Desktop/101_project/TrustIssues-/test/test.txt";
+    string encryptedFile = "C:/Users/SPARK/Desktop/101_project/TrustIssues-/test/locked.vega";
+    string decryptedFile = "C:/Users/SPARK/Desktop/101_project/TrustIssues-/test/recovered.txt";
     string myKey = "Mariam_Vault_2026";
 
     cout << "--- Vega Vault Engine Test ---" << endl;
